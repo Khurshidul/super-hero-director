@@ -25,4 +25,4 @@ Technologies used in this Project mentioned below:
 
 ## Live Site Link
 
-[https://focused-lovelace-bae06a.netlify.app/] 
+[https://adoring-meninsky-4f36f1.netlify.app/] 
