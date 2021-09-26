@@ -1,0 +1,27 @@
+.details{
+    background-color: darkgrey;
+    padding:10px;
+    border-radius: 8px;
+    
+}
+.details p{
+    text-align:left;
+}
+.details:hover{
+  
+    transform:scale(1.01);
+}
+.details img{
+width:200px;
+height:200px;
+border-radius:50%;
+}
+.cart-btn{
+    width:150px;
+    padding:8px 15px;
+    font-weight: 500;
+    background-color:rgb(255, 215, 39);
+    border: none;
+    border-radius: 7px;
+
+}
