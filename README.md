@@ -16,7 +16,7 @@ Technologies used in this Project mentioned below:
 6. VS Code
 ```
 
-## Feautures
+## Features
 
 ```
 1. Here I included some super scientist.

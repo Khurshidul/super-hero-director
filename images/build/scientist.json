@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Timothy Berners-Lee",
+        "birthPlace": "England",
+        "img": "https://bigthink.com/wp-content/uploads/2017/11/18410741.jpg?fit=1200,675",
+        "department": "computer scientist",
+        "invented": "world wide web",
+        "salary": 5500
+    },
+    {
+        "name": "Stephen Hawking",
+        "birthPlace": "America",
+        "img": "https://bigthink.com/wp-content/uploads/2017/11/18410742.jpg?fit=1200,675",
+        "department": "physicist and cosmologist",
+        "invented": "big bang, black holes, and relativity",
+        "salary": 8000
+    },
+    {
+        "name": " Jane Goodall",
+        "birthPlace": "England",
+        "img": "https://bigthink.com/wp-content/uploads/2017/11/18410743.jpg?fit=1200,675",
+        "department": "primatologist",
+        "invented": "chimpanzees, and not only humans,",
+        "salary": 10000
+    },
+    {
+        "name": "Alan Guth",
+        "birthPlace": "America",
+        "img": "https://bigthink.com/wp-content/uploads/2017/11/18410744.jpg?fit=1200,675",
+        "department": "physicist and cosmologist",
+        "invented": "theory of cosmic inflation",
+        "salary": 25000
+    },
+    {
+        "name": " Ashoke Sen",
+        "birthPlace": "India",
+        "img": "https://bigthink.com/wp-content/uploads/2017/11/18410745.jpg?fit=1200,675",
+        "department": "theoretical physicist",
+        "invented": "significant contributions in string theory",
+        "salary": 30000
+    },
+    {
+        "name": "James Watson",
+        "birthPlace": "America",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGPvqicx_O7G0maGOJPMv99YC9xjNoxQO75w&usqp=CAU",
+        "department": "molecular biologist and geneticist",
+        "invented": " double helix structure of the DNA",
+        "salary": 4000
+    },
+    {
+        "name": "Tu Youyou",
+        "birthPlace": "China",
+        "img": "https://bigthink.com/wp-content/uploads/2017/11/18410746.jpg?fit=1200,675",
+        "department": "pharmacist",
+        "invented": "anti-malaria drug-(artemisinin and dihydroartemisinin)",
+        "salary": 6000
+    },
+    {
+        "name": "Noam Chomsky",
+        "birthPlace": "America",
+        "img": "https://bigthink.com/wp-content/uploads/2017/11/18410747.jpg?fit=1200,675",
+        "department": "linguist and firebrand political activist",
+        "invented": "the father of modern linguistics",
+        "salary": 12000
+    },
+    {
+        "name": " Shinya Yamanaka",
+        "birthPlace": "Japan",
+        "img": "https://bigthink.com/wp-content/uploads/2017/11/18410748.jpg?fit=1200,675",
+        "department": "biologist",
+        "invented": "co-discovery that existing cells of the body can be converted to stem cells",
+        "salary": 7500
+    },
+    {
+        "name": "Elizabeth Blackburn",
+        "birthPlace": "Australia",
+        "img": "https://bigthink.com/wp-content/uploads/2017/11/18410750.jpg?fit=1200,675",
+        "department": "molecular biologist",
+        "invented": "anti-aging",
+        "salary": 7000
+    },
+    {
+        "name": "Gonzalo Moratorio",
+        "birthPlace": "Franc",
+        "img": "https://www.nature.com/immersive/d41586-020-03435-6/img/gonzalo-moratorio.jpg",
+        "department": " virologist",
+        "invented": "Coronavirus hunter",
+        "salary": 5000
+    },
+    {
+        "name": "Wiebe Bijker",
+        "birthPlace": "Netherland",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bijker.jpg/220px-Bijker.jpg",
+        "department": " Computer Engineer",
+        "invented": "Delta Plan",
+        "salary": 7000
+    },
+    {
+        "name": "Steve Woolgar",
+        "birthPlace": "England",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Steve_Woolgar.jpg/220px-Steve_Woolgar.jpg",
+        "department": " sociologist",
+        "invented": "The Construction of Scientific Facts",
+        "salary": 4500
+    },
+    {
+        "name": "Carolyn Bertozzi",
+        "birthPlace": "California",
+        "img": "https://storage.googleapis.com/www-static-academic-influence/people-images/carolyn-bertozzi",
+        "department": "Biorthogonal Chemistry",
+        "invented": "Modify Molecule Theory",
+        "salary": 5000
+    },
+    {
+        "name": "Eric Scerri",
+        "birthPlace": "London",
+        "img": "https://storage.googleapis.com/www-static-academic-influence/people-images/eric-scerri",
+        "department": "Chemist",
+        "invented": "Modify Periodic Table",
+        "salary": 8000
+    }
+]

@@ -1,5 +1,5 @@
 import React from 'react';
-import { useEffect, useState } from 'react/cjs/react.development';
+import { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Scientist from '../Scientist/Scientist';
 import './Allscientist.css';
