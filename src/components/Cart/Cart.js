@@ -7,8 +7,9 @@ const Cart = (props) => {
    
     return (
         <div>
-            <h4>Hire:{props.cart.length}</h4>
+            <h4>Order Photos:{props.cart.length}</h4>
             <h2>Total Amount: ${total}</h2>
+           
          
         </div>
     );
