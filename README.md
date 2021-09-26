@@ -1,4 +1,28 @@
-#SkS Research and Thinking.
-#Here I included some super scientist to make a research team.
-#They have some special quality to tinking deep to discover anything.
-#They were gifted us the present world.
+
+# SKS Research and Thinking
+
+Details of top scientist in the world.
+
+## Technologies
+
+Technologies used in this Project mentioned below:
+
+```
+1. HTML5
+2. CSS3
+3. JS
+4. React JS
+5. Netlify
+6. VS Code
+```
+
+## Feautures
+
+```
+1. Here I included some super scientist.
+2. They were gifted us the  present world.
+```
+
+## Live Site Link
+
+[https://focused-lovelace-bae06a.netlify.app/] 
